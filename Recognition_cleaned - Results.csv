@@ -1,0 +1,140 @@
+Program Name,Date Received,Recipient Name,Giver Name,Award Amount,Award Type,Submitter Comments
+BluePoints Award,04/02/2025,Gunender Kumar Prem Chand,Sailaja Reddy Keshireddy,50,BPs,"Hi Gunender 
+
+Thank you very much for all your contributions to publisher blogs. Many congratulations for receiving the best blogger award for the quarter 3Q 2024 for the blog entry “Enhancing Security and Compliance with Cross-Account Scanning in IBM Cloud ”
+
+Keep up the great work and looking forward to have many more in upcoming months.
+
+Thanks
+
+Sailaja
+
+"
+IBMer Appreciation,04/09/2025,Ballary Javid Hussain,Nagesh Raghupatruni,,,"Thank you for all your efforts on the Customer Credential story and for seamlessly coordinating across teams. Despite being new to the compliance module, you quickly grasped the framework, collaborated effectively, and took the lead in outlining tasks (LLD) and the delivery plan. Your ability to multitask, deliver at speed, and work as a true team player clearly reflects your strong leadership qualities. "
+IBMer Appreciation,03/27/2025,Ramya Sree,Sailaja Perumalla,,,"Thank you for your support during the drive on March 20. I truly appreciate your follow-ups and your dedication to managing regular work while senior team members were occupied with a full day of interviews. You have built a strong reputation as *Ms. Dependable*—always tracking, reminding, organizing, and ensuring steady progress.  
+
+Your keen interest in understanding the objectives is impressive, and your willingness to contribute to any task, regardless of experience level, is truly commendable. Keep up the great work, and thanks again!"
+IBMer Appreciation,04/29/2025,Ranjana Venkataramanan,Sailaja Perumalla,,,"Thank you, Ranjaan, for all your support with my ad hoc requests. I have received great feedback about the speed and clarity with which you approach tasks, as well as the thoughtful questions you raise, showing strong understanding and eagerness to learn. You have made a noticeable impact in a short time. Keep up the great work and continue building on this momentum!"
+IBMer Appreciation,04/29/2025,Panjugula Manindhra Goud,Sailaja Perumalla,,,"Great work, Manindra, on automating common tasks related to Train activities! Your demo showcasing improvement stats was impressive, and your effort to bring consistency across tasks for multiple services is truly commendable. Keep up the momentum, and best of luck with your upcoming Playback presentation, Thank you for all the good work."
+IBMer Appreciation,04/29/2025,Shanmukha Katuri,Sailaja Perumalla,,,"Shanmukha, your commitment, dedication, and attention to detail are truly impressive. Thank you for taking full ownership and consistently giving your best in every task you take on. It’s also great to hear others referring about the support/guidance they receive from you during my one-on-one conversations. You've clearly made a strong impact in a short time since joining the team with your behavior and deliverables too. Sincerely appreciate your contributions, so glad to have you in my team. Thank you once again!"
+IBMer Appreciation,03/27/2025,Shanmukha Katuri,Sailaja Perumalla,,,"I hope you had a great time in SCC during Q1, gaining valuable learnings and a deeper understanding of our processes and planning. Your dedication and thoroughness in everything you take on are truly impressive, and your organization and attention to detail do not go unnoticed.  
+
+Wishing you an even more rewarding experience in the upcoming quarters, with greater technical contributions, deeper involvement, and impactful deliverables. Thank you for being part of this group—keep up the great work!"
+Client and Partner Success Award - 2025,03/27/2025,Pavan Kumar Manda,Sailaja Perumalla,500,cash,"Nominees: Pavan Manda, Basheera K
+
+Impact Justification for Award Nomination:
+
+The nominees have demonstrated exceptional technical expertise, coordination, and commitment to delivering impactful results. 
+Key achievements include:
+•	Seamless MFA Integration: Successfully integrated Multi-Factor Authentication (MFA) for 42 of the 52 CBR-supported services, ensuring zero customer-reported issues post-release and enhancing service reliability.
+•	Simplified Rule Management: Deployed the """"RULE PARAMETER VERSIONING"""" capability, laying a critical foundation for future enhancements and process improvements.
+•	Excellence Under Pressure: Achieved a significant milestone within a compressed timeline, showcasing outstanding project management and technical execution skills.
+•	Strengthened Security Measures: Enhanced core platform security configuration checks (SCC) to manage overall risk, with a focus on regulated enterprises like BNPP. This improvement prevents and detects unauthorized access to controlled environments via public endpoints without mitigating controls. By reinforcing IBM's capabilities as a trusted cloud provider for regulated workloads, this achievement highlights the nominee's role in advancing robust security controls and risk detection.
+
+Pavan M contributed significantly to the Compliance module by:
+•	Updating payloads to handle new configurations.
+•	Indicating the presence of missing parameters.
+•	Implementing cache updates for rules.
+•	Enhancing the Terraform flow.
+•	Coordinating progress across interdependent modules.
+
+Basheera K led efforts in the Controls module by:
+•	Identifying impacted rules and profiles
+•	Updating MFA for 42 of the 52 CBR-supported services.
+•	Conducting end-to-end verification, including exhaustive testing of permutations, combinations.
+
+Despite the complexity and risks involved in the updates, the team delivered the solution within a tight timeline, ensuring seamless functionality without impacting existing outcomes. This accomplishment highlights their technical expertise, problem-solving abilities, and exceptional teamwork.
+
+Their efforts not only resolved immediate challenges but also established a scalable foundation for future enhancements, reinforcing IBM’s position as a leader in secure and regulated cloud solutions."
+Client and Partner Success Award - 2025,03/27/2025,Basheera Kaladgi,Sailaja Perumalla,500,cash,"Nominees: Pavan Manda, Basheera K
+
+Impact Justification for Award Nomination:
+
+The nominees have demonstrated exceptional technical expertise, coordination, and commitment to delivering impactful results. 
+Key achievements include:
+•	Seamless MFA Integration: Successfully integrated Multi-Factor Authentication (MFA) for 42 of the 52 CBR-supported services, ensuring zero customer-reported issues post-release and enhancing service reliability.
+•	Simplified Rule Management: Deployed the """"RULE PARAMETER VERSIONING"""" capability, laying a critical foundation for future enhancements and process improvements.
+•	Excellence Under Pressure: Achieved a significant milestone within a compressed timeline, showcasing outstanding project management and technical execution skills.
+•	Strengthened Security Measures: Enhanced core platform security configuration checks (SCC) to manage overall risk, with a focus on regulated enterprises like BNPP. This improvement prevents and detects unauthorized access to controlled environments via public endpoints without mitigating controls. By reinforcing IBM's capabilities as a trusted cloud provider for regulated workloads, this achievement highlights the nominee's role in advancing robust security controls and risk detection.
+
+Pavan M contributed significantly to the Compliance module by:
+•	Updating payloads to handle new configurations.
+•	Indicating the presence of missing parameters.
+•	Implementing cache updates for rules.
+•	Enhancing the Terraform flow.
+•	Coordinating progress across interdependent modules.
+
+Basheera K led efforts in the Controls module by:
+•	Identifying impacted rules and profiles
+•	Updating MFA for 42 of the 52 CBR-supported services.
+•	Conducting end-to-end verification, including exhaustive testing of permutations, combinations.
+
+Despite the complexity and risks involved in the updates, the team delivered the solution within a tight timeline, ensuring seamless functionality without impacting existing outcomes. This accomplishment highlights their technical expertise, problem-solving abilities, and exceptional teamwork.
+
+Their efforts not only resolved immediate challenges but also established a scalable foundation for future enhancements, reinforcing IBM’s position as a leader in secure and regulated cloud solutions."
+Manager Appreciation with BluePoints - 2025,03/27/2025,Nagesh Raghupatruni,Sailaja Perumalla,100,BPs,"Thank you so much for your support with interviews, especially on the drive day March 20. Your contributions were key to making it a success! In just about six hours, we reviewed over 20 profiles, scheduled 16 interviews, cleared 11 candidates, and selected 5 for the final round—3 of whom received offers within the next three days.  
+
+I truly appreciate your coordination and dedication in helping us find the right candidates for our team. Fantastic job!"
+Manager Appreciation with BluePoints - 2025,04/29/2025,Archana Ponnada,Sailaja Perumalla,100,BPs,"Thank you so much, Archana, for the incredible support you consistently provide. Your timely help has been instrumental in managing my daily and weekly priorities, all while ensuring that team commitments and business goals are met as per the plan.
+
+Much of the planning around tasks and team members wouldn't have been possible without your valuable inputs during the planning phase and your continuous support throughout execution. You truly are an asset to any team.
+
+You are exactly the kind of person any manager would hope to have, someone who combines technical expertise with a strong sense of ownership, team orientation, and an exceptional ability to plan, anticipate challenges, and address them proactively. I am genuinely thankful and grateful for all that you do. Keep up the amazing work, you’re doing an outstanding job, thanks a ton."
+Manager Appreciation with BluePoints - 2025,03/27/2025,Archana Ponnada,Sailaja Perumalla,100,BPs,"Thank you so much for your support with interviews, especially on the drive day March 20. Your contributions were key to making it a success! In just about six hours, we reviewed over 20 profiles, scheduled 16 interviews, cleared 11 candidates, and selected 5 for the final round—3 of whom received offers within the next three days.  
+
+I truly appreciate your coordination and dedication in helping us find the right candidates for our team. Fantastic job!"
+Manager Appreciation with BluePoints - 2025,03/27/2025,Pavan Kumar Manda,Sailaja Perumalla,100,BPs,"Thank you so much for your support with interviews, especially on the drive day. Your contributions were key to making it a success! In just about six hours, we reviewed over 20 profiles, scheduled 16 interviews, cleared 11 candidates, and selected 5 for the final round—3 of whom received offers within the next three days.  
+
+I truly appreciate your coordination and dedication in helping us find the right candidates for our team. Fantastic job!"
+Manager Appreciation with BluePoints - 2025,04/01/2025,Pavan Kumar Penugonda,Sailaja Perumalla,100,BPs,"Thank you, Pavan, for your continuous support throughout Q1 in training and guiding Ram on DevOps activities. A special mention for your timely assistance over the weekend while Ram was traveling, ensuring a smooth hotfix promotion to STG. Your availability and reliability are truly appreciated!"
+Manager Appreciation with BluePoints - 2025,03/27/2025,Ballary Javid Hussain,Sailaja Perumalla,100,BPs,"Thank you so much for your support with interviews, especially on the drive day March 20. Your contributions were key to making it a success! In just about six hours, we reviewed over 20 profiles, scheduled 16 interviews, cleared 11 candidates, and selected 5 for the final round—3 of whom received offers within the next three days.  
+
+I truly appreciate your coordination and dedication in helping us find the right candidates for our team. Fantastic job!"
+Manager Appreciation with BluePoints - 2025,03/27/2025,Ramesh Kothandapany,Sailaja Perumalla,100,BPs,"Thank you so much for your support with interviews, especially on the drive day March 20. Your contributions were key to making it a success! In just about six hours, we reviewed over 20 profiles, scheduled 16 interviews, cleared 11 candidates, and selected 5 for the final round—3 of whom received offers within the next three days.  
+
+I truly appreciate your coordination and dedication in helping us find the right candidates for our team. Fantastic job!"
+Manager Appreciation with BluePoints - 2025,03/27/2025,Subrahmanya Aditya Majeti,Sailaja Perumalla,100,BPs,"Thank you so much for your support with interviews, especially on the drive day March 20. Your contributions were key to making it a success! In just about six hours, we reviewed over 20 profiles, scheduled 16 interviews, cleared 11 candidates, and selected 5 for the final round—3 of whom received offers within the next three days.  
+
+I truly appreciate your coordination and dedication in helping us find the right candidates for our team. Fantastic job!"
+Manager Appreciation with BluePoints - 2025,03/27/2025,Shanmukha Katuri,Sailaja Perumalla,100,BPs,"Thank you so much for your support with interviews, especially on the drive day March 20. Your contributions were key to making it a success! In just about six hours, we reviewed over 20 profiles, scheduled 16 interviews, cleared 11 candidates, and selected 5 for the final round—3 of whom received offers within the next three days.  
+
+I truly appreciate your coordination and dedication in helping us find the right candidates for our team. Fantastic job!"
+Appreciation with BluePoints - 2025,04/21/2025,Pavan Kumar Penugonda,Pavan Kumar Manda,50,BPs,"I'd like to express my gratitude to everyone involved. Your dedication and hard work were instrumental in successfully delivering the deprecated service feature from SCC on schedule. Additionally, your commitment to providing adhoc hotfixes during the night and staying late for several days ensured the feature's timely completion, alongside the necessary support."
+Appreciation with BluePoints - 2025,04/21/2025,Pavan Kumar Manda,Gunender Kumar Prem Chand,50,BPs,Appreciate your support in debugging the DN migration issues. Your deep expertise in compliance truly helped narrow down the root causes—you’re a real SME in this space!
+IBMer Appreciation,04/07/2025,Pavan Kumar Penugonda,Senthilvelavan Ponnusamy,,,"Thank you very much, Pavan, for your support during the late-night deployments to help complete the deprecation task in Q125 within the target timeline."
+IBMer Appreciation,04/09/2025,Ballary Javid Hussain,Senthilvelavan Ponnusamy,,,Thank you for guiding me on AI ICT Guardrail profile. Your review and comments on profile rules made my work simple. Thank you for leading and co-ordinating the task. Keep up the good work.
+Appreciation with BluePoints - 2025,04/07/2025,Pavan Kumar Manda,Senthilvelavan Ponnusamy,50,BPs,"Thank you very much, Pavan M, for successfully completing the deprecation task in Q125 within the target timeline. I am absolutely certain that without your support, we wouldn’t have been able to complete the task on time. We sincerely appreciate your 24*7 assistance in resolving the issues across both the Stage and Prod environments, your dedication during late-night deployments, and your thorough testing of all test cases."
+IBMer Appreciation,04/09/2025,Ballary Javid Hussain,Ramesh Kothandapany,,,"Javid, thanks for incredible amount of flexibility you show, you are awesome in managing multiple priorities and juggle between them and delivering without delay. You are wonderful team player and it has been always a pleasure working with you."
+IBMer Appreciation,04/11/2025,Nagesh Raghupatruni,Ramya Sree,,,Thank you for always being there when I’m stuck and for supporting my growth. Your help has truly made a difference.
+IBMer Appreciation,04/11/2025,Archana Ponnada,Ramya Sree,,,Thank you for always being there when I’m stuck and for supporting my growth. Your help has truly made a difference.
+IBMer Appreciation,04/11/2025,Pavan Kumar Manda,Ramya Sree,,,Thank you for always being there when I’m stuck and for supporting my growth. Your help has truly made a difference.
+IBMer Appreciation,04/11/2025,Ranjana Venkataramanan,Ramya Sree,,,"Great job on handling the tasks assigned to you including - monitoring the PD, supporting train promotions, and contributing to Papia code coverage. 
+Keep up the excellent work and maintain the momentum!"
+IBMer Appreciation,04/11/2025,Panjugula Manindhra Goud,Ramya Sree,,,"Great job on handling the tasks assigned to you including - monitoring the PD, supporting train promotions, and contributing to Papia code coverage. 
+Keep up the excellent work and maintain the momentum!"
+IBMer Appreciation,04/11/2025,Mangapuram Poojitha Vigneswari,Ramya Sree,,,"Great job on handling the tasks assigned to you including - monitoring the PD, supporting train promotions, and contributing to Papia code coverage. 
+Keep up the excellent work and maintain the momentum!"
+IBMer Appreciation,04/11/2025,Ballary Javid Hussain,Ranjana Venkataramanan,,,"Thank you for consistently reviewing and merging my PRs, and for taking the time to help me understand backend logic and debug issues. Your guidance and responsiveness have made a significant impact on my learning and progress."
+IBMer Appreciation,04/11/2025,Ramya Sree,Ranjana Venkataramanan,,,"Thank you for consistently reviewing and merging my PRs, and for taking the time to help me understand backend logic and debug issues. Your guidance and responsiveness have made a significant impact on my learning and progress."
+IBMer Appreciation,03/19/2025,Nagesh Raghupatruni,Shanmukha Katuri,,,"Nagesh helped me to understand the papia functional flow and overall SCC flow
+Basheera helped me to organise the code de-duplication task deliverables in an efficient way and also helped me to understand the code flow in papia
+Pavan M helped me to setup compliance in my local laptop get going with the compliance related stories
+Ram Tadi helped to understand the e2e acceptance and e2e automation related knowledge on compliance
+
+Thank you for extending the help"
+IBMer Appreciation,03/19/2025,Pavan Kumar Manda,Shanmukha Katuri,,,"Nagesh helped me to understand the papia functional flow and overall SCC flow
+Basheera helped me to organise the code de-duplication task deliverables in an efficient way and also helped me to understand the code flow in papia
+Pavan M helped me to setup compliance in my local laptop get going with the compliance related stories
+Ram Tadi helped to understand the e2e acceptance and e2e automation related knowledge on compliance
+
+Thank you for extending the help"
+IBMer Appreciation,04/29/2025,Ballary Javid Hussain,Shanmukha Katuri,,,Javid has been very supportive during my journey so far with IBM. He was much helpful while taking the Papia bugfix (Authorization header missing issue)  to PROD with respect to reviewing and verifying it.
+IBMer Appreciation,03/19/2025,Basheera Kaladgi,Shanmukha Katuri,,,"Nagesh helped me to understand the papia functional flow and overall SCC flow
+Basheera helped me to organise the code de-duplication task deliverables in an efficient way and also helped me to understand the code flow in papia
+Pavan M helped me to setup compliance in my local laptop get going with the compliance related stories
+Ram Tadi helped to understand the e2e acceptance and e2e automation related knowledge on compliance
+
+Thank you for extending the help"
+Appreciation with BluePoints - 2025,04/28/2025,Nagesh Raghupatruni,Shanmukha Katuri,50,BPs,"Nagesh has been very supportive and available through out my journey with IBM so far, especially his support during my PD is particularly awesome.
+
+Thank you Nagesh."
